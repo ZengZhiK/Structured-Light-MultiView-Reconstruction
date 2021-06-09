@@ -25,7 +25,8 @@
 
 ## 相机的使用
 
-见附件《SpinView基本使用.pdf》
+- 相机规格见附件《FLIR_BFS-U3-50S5-datasheet.pdf》
+- 相机使用见附件《SpinView基本使用.pdf》
 
 ## 投影仪和相机硬件同步
 
